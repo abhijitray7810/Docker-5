@@ -7,7 +7,7 @@ This repository contains hands-on practice and mini-projects focused on **Docker
 ## 📚 Repository Structure 
  
 ### 🔹 Practice Tasks
- 
+  
 * **Day-08**: Docker-based task and implementation
 
 ### 🔹 Projects 
