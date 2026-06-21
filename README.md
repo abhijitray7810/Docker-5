@@ -16,7 +16,7 @@ This repository contains hands-on practice and mini-projects focused on **Docker
 
 A basic project demonstrating containerized application setup.
 
-#### 🔢 Flask-NumberTable
+#### 🔢 Flask-NumberTable 
 
 A simple Flask application deployed using Docker that generates number tables.
 
