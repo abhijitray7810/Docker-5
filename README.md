@@ -4,7 +4,7 @@ This repository contains hands-on practice and mini-projects focused on **Docker
 
 ---
 
-## 📚 Repository Structure
+## 📚 Repository Structure 
 
 ### 🔹 Practice Tasks
 
