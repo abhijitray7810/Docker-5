@@ -1,5 +1,5 @@
 # 🐳 Docker Practice & Projects
-
+ 
 This repository contains hands-on practice and mini-projects focused on **Docker** and containerization. It includes real-world examples, multi-container setups, and application deployments using Docker.
 
 ---
